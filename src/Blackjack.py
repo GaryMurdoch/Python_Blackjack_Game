@@ -157,7 +157,7 @@ def play(player, session):
         if player_hand.points == session.winning_score:
             dealer_playing = True
             player_playing = False
-            _ = input(" *** PLAYER HAS {} !!! *** Press <Enter> to reveal Dealer's hand "
+            _ = input(" *** PLAYER HAS {} ! *** Press <Enter> to reveal Dealer's hand "
                       .format(session.winning_score))
             dealer_hand.cards[0].unhide()
             clear()
@@ -165,12 +165,12 @@ def play(player, session):
         if player_hand.points > session.winning_score:
             dealer_won = True
             player_playing = False
-            print(" ***** PLAYER BUSTS ... DEALER WINS *****")
+            print(" *** PLAYER BUSTS ... DEALER WINS ***")
             continue
         
         action = ""
         while not action=="H" and not action=="S":
-            action = input(" ACTION?  Hit [H] or Stand [S]: ").strip()
+            action = input("Hit [H] or Stand [S]: ").strip()
             if not action == "":
                 action = action[0].upper()
         if action == "H":
@@ -314,14 +314,14 @@ def new_player(session):
         else:
             good_date =True
 
-    newguy = people.Player(first, last, dob_date)
-    if (newguy.age >= session.min_age):
-        print("\n New player registered as " + newguy.tostring())
-        session.players.append(newguy)
+    newperson = people.Player(first, last, dob_date)
+    if (newperson.age >= session.min_age):
+        print("\n New player registered as " + newperson.tostring())
+        session.players.append(newperson)
     else:
         print("\n *** NOT ALLOWED: {} YEARS OF AGE IS TOO YOUNG TO PLAY ***"
-              .format(newguy.age))
-    return newguy
+              .format(newperson.age))
+    return newperson
 
 ######################################################################
 
