@@ -1,0 +1,175 @@
+#
+# All Python blackjack games played, beginning 12-Dec-2022
+#
+
+######################################################################
+
+DATE: 12-Dec-2022
+CASINO: Riverbend Casino
+DEALER: 
+    NAME: Johnny Two-Fingers
+    DOB: 16-Apr-1967
+    REGISTRATION: L16730X332-AB
+    EMPLOYER: Cards R Us
+
+Player: Gary Muyr, age 31 [DOB: 08-Apr-1991]
+DATE: 12-Dec-2022
+CASINO: Riverbend Casino
+DEALER: 
+    NAME: Johnny Two-Fingers
+    DOB: 16-Apr-1967
+    REGISTRATION: L16730X332-AB
+    EMPLOYER: Cards R Us
+
+Player: Gary Murdoch, age 31 [DOB: 08-Apr-1991]
+    Player's hand: 19 points [ K♦   3♣   6♠ ]
+    Dealer's hand: 26 points [ J♠   6♥   K♣ ]
+    Player WON $100.00
+
+Player: Gary Murdoch, age 31 [DOB: 08-Apr-1991]
+    Player's hand: 20 points [ 2♥   9♣   9♦ ]
+    Dealer's hand: 18 points [ 5♥   Q♣   3♠ ]
+    Player WON $1600.00
+
+Player: Gary Murdoch, age 31 [DOB: 08-Apr-1991]
+    Player's hand: 20 points [ 6♦   4♣   Q♦ ]
+    Dealer's hand: 22 points [ 5♠   7♦   K♥ ]
+    Player WON $3000.00
+
+
+DATE: 12-Dec-2022
+CASINO: Riverbend Casino
+DEALER: 
+    NAME: Johnny Two-Fingers
+    DOB: 16-Apr-1967
+    REGISTRATION: L16730X332-AB
+    EMPLOYER: Cards R Us
+
+Player: Gary Murdoch, age 31 [DOB: 08-Apr-1991]
+    Player's hand: 19 points [ 8♠   A♣ ]
+    Dealer's hand: 20 points [ Q♥   10♦ ]
+    Player LOST $2000.00
+
+
+DATE: 12-Dec-2022
+CASINO: Riverbend Casino
+DEALER: 
+    NAME: Johnny Two-Fingers
+    DOB: 16-Apr-1967
+    REGISTRATION: L16730X332-AB
+    EMPLOYER: Cards R Us
+
+Player: gg mu, age 132 [DOB: 20-Apr-1890]
+    Player's hand: 22 points [ 4♠   8♠   10♦ ]
+    Dealer's hand: 15 points [ 4♣   A♣ ]
+    Player LOST $5.00
+
+
+DATE: 12-Dec-2022
+CASINO: Riverbend Casino
+DEALER: 
+    NAME: Johnny Two-Fingers
+    DOB: 16-Apr-1967
+    REGISTRATION: L16730X332-AB
+    EMPLOYER: Cards R Us
+
+Player: Gary Murdoch m, age 31 [DOB: 19-Jun-1991]
+    Player's hand: 18 points [ Q♦   4♣   4♦ ]
+    Dealer's hand: 24 points [ 5♥   Q♥   A♥   8♣ ]
+    Player WON $6.00
+
+
+DATE: 12-Dec-2022
+CASINO: Riverbend Casino
+DEALER: 
+    NAME: Johnny Two-Fingers
+    DOB: 16-Apr-1967
+    REGISTRATION: L16730X332-AB
+    EMPLOYER: Cards R Us
+
+Player: Gary Murdoch, age 31 [DOB: 08-Apr-1991]
+    Player's hand: 18 points [ 5♠   3♥   Q♠ ]
+    Dealer's hand: 20 points [ J♥   K♠ ]
+    Player LOST $3000.00
+
+
+DATE: 12-Dec-2022
+CASINO: Riverbend Casino
+DEALER: 
+    NAME: Johnny Two-Fingers
+    DOB: 16-Apr-1967
+    REGISTRATION: L16730X332-AB
+    EMPLOYER: Cards R Us
+
+
+DATE: 12-Dec-2022
+CASINO: Riverbend Casino
+DEALER: 
+    NAME: Johnny Two-Fingers
+    DOB: 16-Apr-1967
+    REGISTRATION: L16730X332-AB
+    EMPLOYER: Cards R Us
+
+
+DATE: 12-Dec-2022
+CASINO: Riverbend Casino
+DEALER: 
+    NAME: Johnny Two-Fingers
+    DOB: 16-Apr-1967
+    REGISTRATION: L16730X332-AB
+    EMPLOYER: Cards R Us
+
+Player: Gary Murdoch, age 31 [DOB: 08-Apr-1991]
+    Player's hand: 19 points [ 10♠   9♦ ]
+    Dealer's hand: 21 points [ 6♥   8♦   7♦ ]
+    Player LOST $5.00
+
+
+DATE: 12-Dec-2022
+CASINO: The Best Casino
+DEALER: 
+    NAME: Bob Builder
+    DOB: 16-Jul-1986
+    REGISTRATION: L16730W332-AB
+    EMPLOYER: Cards R Us
+
+Player: Maddy Murdoch, age 32 [DOB: 04-Sep-1990]
+    Player's hand: 19 points [ 8♦   A♠ ]
+    Dealer's hand: 17 points [ J♥   2♠   5♣ ]
+    Player WON $200.00
+
+######################################################################
+
+DATE: 12-Dec-2022
+CASINO: The Best Casino
+DEALER: 
+    NAME: Bob Builder
+    DOB: 16-Jul-1986
+    REGISTRATION: L16730W332-AB
+    EMPLOYER: Cards R Us
+
+Player: Gary Murdoch, age 31 [DOB: 08-Apr-1991]
+    Player's hand: 21 points [ A♠   K♦ ]
+    Dealer's hand: 20 points [ 2♦   10♠   8♣ ]
+    Player WON $10.00
+
+
+DATE: 12-Dec-2022
+CASINO: The Best Casino
+DEALER: 
+    NAME: Bob Builder
+    DOB: 16-Jul-1986
+    REGISTRATION: L16730W332-AB
+    EMPLOYER: Cards R Us
+
+Player: Gary bo, age 32 [DOB: 08-Apr-1990]
+    Player's hand: 23 points [ 5♦   10♦   8♣ ]
+    Dealer's hand: 13 points [ Q♦   3♦ ]
+    Player LOST $900.00
+
+Player: GG Murdoch, age 31 [DOB: 08-Apr-1991]
+    Player's hand: 21 points [ A♠   J♦ ]
+    Dealer's hand: 17 points [ 2♦   5♠   4♦   6♥ ]
+    Player WON $200.00
+
+######################################################################
