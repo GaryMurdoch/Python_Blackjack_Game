@@ -1,7 +1,7 @@
 import os
 from datetime import datetime, date
-from gamecards import standard_cards as cards
-from gamecards import cards_people as people
+from gamecards import Cards as cards
+from gamecards import People as people
 
 globals()["_space"] = 4*"\u0020"
 
@@ -328,7 +328,7 @@ def new_player(session):
 def game_setup():
     session = Session(date = date.today(),
                   dealer = people.Dealer("Bob", "Builder", date(1986, 7, 16),
-                                         "Cards R Us", "L16730W332-AB"),
+                                         "The Casino", "L16730W332-AB"),
                   casino = "The Best Casino",
                   deck = cards.Deck(cards._all_values, cards._all_suits),
                   players = [],

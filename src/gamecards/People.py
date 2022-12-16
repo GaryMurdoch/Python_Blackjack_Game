@@ -73,5 +73,5 @@ class Dealer(Person):
         return ("{}NAME: {}\n{}DOB: {}\n{}REGISTRATION: {}\n{}EMPLOYER: {}"
                 .format(_space, self.fullname, _space, self.birthday,
                         _space, self.licence, _space, self.employer))
-    
+   
 ######################################################################

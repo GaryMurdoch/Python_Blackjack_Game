@@ -173,3 +173,50 @@ Player: GG Murdoch, age 31 [DOB: 08-Apr-1991]
     Player WON $200.00
 
 ######################################################################
+
+DATE: 13-Dec-2022
+CASINO: The Best Casino
+DEALER: 
+    NAME: Bob Builder
+    DOB: 16-Jul-1986
+    REGISTRATION: L16730W332-AB
+    EMPLOYER: Cards R Us
+
+Player: Gary Murdoch, age 31 [DOB: 08-Apr-1991]
+    Player's hand: 16 points [ 7♥   8♥   A♥ ]
+    Dealer's hand: 18 points [ 6♥   J♦   2♠ ]
+    Player LOST $2000.00
+
+######################################################################
+
+DATE: 13-Dec-2022
+CASINO: The Best Casino
+DEALER: 
+    NAME: Bob Builder
+    DOB: 16-Jul-1986
+    REGISTRATION: L16730W332-AB
+    EMPLOYER: Cards R Us
+
+
+DATE: 13-Dec-2022
+CASINO: The Best Casino
+DEALER: 
+    NAME: Bob Builder
+    DOB: 16-Jul-1986
+    REGISTRATION: L16730W332-AB
+    EMPLOYER: The Casino
+
+
+DATE: 16-Dec-2022
+CASINO: The Best Casino
+DEALER: 
+    NAME: Bob Builder
+    DOB: 16-Jul-1986
+    REGISTRATION: L16730W332-AB
+    EMPLOYER: The Casino
+
+Player: Gary murdoch, age 31 [DOB: 08-Apr-1991]
+    Player's hand: 18 points [ 10♣   8♣ ]
+    Dealer's hand: 20 points [ J♠   K♥ ]
+    Player LOST $5.00
+
